@@ -1,1 +1,46 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>6</id>
+      <name>Test 3</name>
+      <size>1</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2021-10-23 20:11:55.352433+00:00</created>
+      <updated>2021-10-23 20:12:23.589973+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>6</id>
+          <start>0</start>
+          <stop>0</stop>
+          <url>http34.152.41.165:8080/?id=6</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>danielkyrollos</username>
+        <email>danielkyrollos@cmail.carleton.ca</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>face</name>
+          <color>#db2c45</color>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2021-10-23 20:12:25.804659+00:00</dumped>
+  </meta>
+  <image id="0" name="IMG_20170514_195714.jpg" width="3024" height="4032">
+    <box label="face" occluded="0" source="manual" xtl="1645.13" ytl="1894.93" xbr="1833.81" ybr="2104.12" z_order="0">
+    </box>
+  </image>
+</annotations>
